@@ -15,6 +15,6 @@ function johnLennonFacts(facts) {
   }
   return shoutedFacts;
 }
-function iLoveTheBeatles(number) {
+function iLoveTheBeatles(n) {
   const arr = [];
 }
