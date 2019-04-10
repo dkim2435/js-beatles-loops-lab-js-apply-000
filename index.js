@@ -10,6 +10,8 @@ function johnLennonFacts(facts) {
   const shoutedFacts = [];
   let i =0;
   while (i<Facts.length) {
-    shoutedFacts.push('${Facts[i]}!!!')
+    shoutedFacts.push('${Facts[i]}!!!');
+    i++;
   }
+  return shoutedFacts;
 }
